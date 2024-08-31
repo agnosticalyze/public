@@ -3183,6 +3183,7 @@ try {
 // version: 1.1, 2021-02-15
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
+/*
 // List all possible PROD hosts
 try {
     // window.TMSHelper.console("[TMSConfig.tmsConfig_prodDomains] start");
@@ -3203,6 +3204,7 @@ try {
     window.TMSHelper.console("[TMSConfig.tmsConfig_prodDomains] error:");
     window.TMSHelper.errorHandler(err);
 };
+*/
 
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // 1081 TMSConfig.tmsConfig_event_track...
